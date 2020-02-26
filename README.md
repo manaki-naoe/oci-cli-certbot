@@ -19,7 +19,7 @@
 
 ---
 
-# Use
+# Usage
 
 ## First certificate issuance
 
